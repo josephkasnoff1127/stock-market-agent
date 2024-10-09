@@ -67,8 +67,8 @@ The main workflow orchestrates the execution of various agents to provide a comp
 1. **Clone the repository**:
 
    ```sh
-   git clone https://github.com/yourusername/yourrepository.git
-   cd yourrepository
+   git clone https://github.com/josephkasnoff1127/stock-market-agent.git
+   cd stock-market-agent
    ```
 
 2. **Install dependencies**:
